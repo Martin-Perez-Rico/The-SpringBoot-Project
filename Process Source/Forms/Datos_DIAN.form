@@ -1,0 +1,43 @@
+{
+  "components": [
+    {
+      "label": "Nombre",
+      "type": "textfield",
+      "layout": {
+        "row": "Row_0du7j5j",
+        "columns": null
+      },
+      "id": "Field_1ig6vgt",
+      "key": "Nombre"
+    },
+    {
+      "label": "Apellido",
+      "type": "textfield",
+      "layout": {
+        "row": "Row_0np1p3f",
+        "columns": null
+      },
+      "id": "Field_09uzvjb",
+      "key": "Apellido"
+    },
+    {
+      "label": "Cedula",
+      "type": "number",
+      "layout": {
+        "row": "Row_1ecr0rv",
+        "columns": null
+      },
+      "id": "Field_0hemdu4",
+      "key": "Cedula"
+    }
+  ],
+  "type": "default",
+  "id": "Datos_DIAN",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.15.0"
+  },
+  "executionPlatform": "Camunda Platform",
+  "executionPlatformVersion": "7.19.0",
+  "schemaVersion": 10
+}
